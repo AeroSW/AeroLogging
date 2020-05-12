@@ -1,0 +1,9 @@
+D:\Code\FS-Container\AeroLogging\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Code\FS-Container\AeroLogging\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+D:\Code\FS-Container\AeroLogging\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+D:\Code\FS-Container\AeroLogging\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+D:\Code\FS-Container\AeroLogging\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+D:\Code\FS-Container\AeroLogging\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+D:\Code\FS-Container\AeroLogging\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+D:\Code\FS-Container\AeroLogging\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb
+D:\Code\FS-Container\AeroLogging\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csprojAssemblyReference.cache
